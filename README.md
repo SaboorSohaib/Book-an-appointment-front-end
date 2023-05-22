@@ -39,8 +39,7 @@
 
 # 📖 World Vision Clinic <a name="about-project"></a>
 
-> This is a full-stack project. In which you can register yourself create a doctor, book an appointment
-with the doctor, see all appiontmnets, delete a doctor(s).
+> This is a full-stack project. You can register yourself create a doctor, book an appointment with the doctor, see all appointments, and delete a doctor(s).
 
 ### [World Vision Clinic API Repository link](https://github.com/MudasirSherwani/Book-an-Appointment)
 
